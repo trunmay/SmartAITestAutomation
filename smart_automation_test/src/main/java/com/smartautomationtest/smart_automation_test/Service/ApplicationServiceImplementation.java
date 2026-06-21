@@ -8,7 +8,6 @@ import org.springframework.stereotype.Service;
 import com.smartautomationtest.smart_automation_test.DTO.ApplicationRequest;
 import com.smartautomationtest.smart_automation_test.DTO.ApplicationResponse;
 import com.smartautomationtest.smart_automation_test.Entity.Application;
-import com.smartautomationtest.smart_automation_test.Exception.ResourceNotFoundException;
 import com.smartautomationtest.smart_automation_test.Repository.ApplicationRepository;
 
 import lombok.RequiredArgsConstructor;
